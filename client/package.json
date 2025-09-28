@@ -1,0 +1,5 @@
+{
+  "name": "key-mini-app",
+  "private": true,
+  "workspaces": ["client", "server"]
+}
